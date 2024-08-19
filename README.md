@@ -1,1 +1,1 @@
-# Coursera_Data_Science_Challenge_Churn_Prediction
+# This project is based on Coursera's data science challenge
